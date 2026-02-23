@@ -1,0 +1,73 @@
+.settings-container {
+    padding: 1.5rem;
+    min-height: auto;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.settings-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.settings-header h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.settings-card {
+    padding: 2rem;
+}
+
+.section {
+    margin-bottom: 1.5rem;
+}
+
+.section-title {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.section-desc {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+}
+
+.divider {
+    height: 1px;
+    background: var(--glass-border);
+    margin: 2rem 0;
+}
+
+.text-danger {
+    color: #f87171;
+}
+
+.btn-danger {
+    background: rgba(248, 113, 113, 0.1);
+    border: 1px solid rgba(248, 113, 113, 0.3);
+    color: #f87171;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    transition: all 0.2s;
+}
+
+.btn-danger:hover {
+    background: rgba(248, 113, 113, 0.2);
+    border-color: #f87171;
+}
+
+.mt-4 {
+    margin-top: 1rem;
+}
