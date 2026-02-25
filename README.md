@@ -2,7 +2,7 @@
 
 **Global Tech Trends** is a premium, real-time tech news aggregator built for developers and tech enthusiasts. It delivers curated, high-speed updates from over **60+ premium RSS sources** across 10 specialized categories directly into your browser's toolbar.
 
-![Extension Preview](https://via.placeholder.com/800x450?text=Global+Tech+Trends+Interface)
+![Extension Preview]([https://via.placeholder.com/800x450?text=Global+Tech+Trends+Interface](https://chromewebstore.google.com/detail/global-tech-trends/pmiofamcdbdibdeenonllncaochimjlb))
 
 ## ✨ Features
 
